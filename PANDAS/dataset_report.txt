@@ -1,0 +1,11 @@
+DATA REPORT
+Rows: 5
+Columns: 6
+
+Missing Values:
+Name 0
+Age 0
+Department 0
+Salary 0
+Status 0
+Promoted Salary 0
